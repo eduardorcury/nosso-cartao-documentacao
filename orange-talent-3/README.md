@@ -150,11 +150,11 @@ Importante lembrar que não é esperado que você acabe essa fase da leitura já
 | [Clique aqui para responder o questionário no final do curso](https://docs.google.com/forms/d/e/1FAIpQLSd4b_yVzCjesGWorAw6SwGAaS2rAC5o6nLtQpopU4nCf9UUcg/viewform) |
 | [Clique aqui para o exercício de resolução de problema](https://forms.gle/GJ4rXr31KVg2p7289) |
 
-* [Healthcheck](../informacao_procedural/healthcheck.md);
-* [Readiness checks](../informacao_procedural/readiness_checks.md);
-* [Spring Actuator](../informacao_suporte/spring-actuator.md);
-* [Spring Health check](../informacao_suporte/spring-health-check.md);
-* [Seguraça em ambientes cloud native](../informacao_procedural/seguranca_cloud_native.md);
+* [Healthcheck](../informacao_procedural/healthcheck.md) - :heavy_check_mark:;
+* [Readiness checks](../informacao_procedural/readiness_checks.md) - :heavy_check_mark:;
+* [Spring Actuator](../informacao_suporte/spring-actuator.md) - :heavy_check_mark:;
+* [Spring Health check](../informacao_suporte/spring-health-check.md) - :heavy_check_mark:;
+* [Seguraça em ambientes cloud native](../informacao_procedural/seguranca_cloud_native.md) - :heavy_check_mark:;
 * [Introudção a Oauth](../informacao_suporte/oauth2.md);
 * [Introdução a Keycloak](../informacao_suporte/keycloak.md);
 * [Sobre métricas](../informacao_procedural/metric.md);
